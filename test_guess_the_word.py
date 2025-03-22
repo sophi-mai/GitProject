@@ -13,6 +13,7 @@ class TestBasics(unittest.TestCase):
 
     def test_inlist(self):
         self.assertIn("horse",  ['bread', 'cheese', 'beef', 'chicken'])
+        self.asserIn("horse", ['horse', 'pig', 'cow', 'monkey', 'cat', 'dog', 'zebra']
         # self.assertIsInstance()
 
     def test_isofclass(self):
