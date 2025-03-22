@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e1c7bd1-8a5f-4ff8-b97e-ba08a3a8038f" name="Changes" comment="&quot;Initial Commit&quot;">
-      <change afterPath="$PROJECT_DIR$/test_guess_the_word.py" afterDir="false" />
+    <list default="true" id="2e1c7bd1-8a5f-4ff8-b97e-ba08a3a8038f" name="Changes" comment="&quot;Commit and push&quot; additional unversioned files to see if that populates my files in github">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guess_word_game(v2).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_guess_the_word.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_guess_the_word.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,21 +24,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "sophi-mai"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sophi-mai&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/sophi-mai/GitProject",
-    "accountId": "6a4dc524-016b-4bb7-aa8b-85aa9be336bd"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sophi-mai/GitProject&quot;,
+    &quot;accountId&quot;: &quot;6a4dc524-016b-4bb7-aa8b-85aa9be336bd&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2uTDDe2D7UgaHBPP6De4rPrLOM6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -52,10 +53,33 @@
     "Python.guess_word_test.executor": "Run",
     "Python.test_guess_the_word.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/sophi/OneDrive/Documents/School/CIS256/cse256_sophiamai_EX4"
+    "last_opened_file_path": "C:/Users/sophi/PycharmProjects/GitProject"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Python tests in test_guess_the_word.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="GitProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_guess_the_word.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests in test_guess_the_word.py" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -80,11 +104,37 @@
       <option name="project" value="LOCAL" />
       <updated>1742263908899</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commiting from Pycharm for EX 4">
+      <option name="closed" value="true" />
+      <created>1742622599552</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1742622599552</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Commiting from Pycharm for EX 4">
+      <option name="closed" value="true" />
+      <created>1742622663711</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1742622663711</updated>
+    </task>
+    <task id="LOCAL-00004" summary="&quot;Commit and push&quot; additional unversioned files to see if that populates my files in github">
+      <option name="closed" value="true" />
+      <created>1742622845103</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1742622845103</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;Initial Commit&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Initial Commit&quot;" />
+    <MESSAGE value="Commiting from Pycharm for EX 4" />
+    <MESSAGE value="&quot;Commit and push&quot; additional unversioned files to see if that populates my files in github" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Commit and push&quot; additional unversioned files to see if that populates my files in github" />
   </component>
 </project>
