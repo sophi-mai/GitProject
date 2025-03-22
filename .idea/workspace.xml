@@ -1,22 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e1c7bd1-8a5f-4ff8-b97e-ba08a3a8038f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/GitProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testfile.py" afterDir="false" />
+    <list default="true" id="2e1c7bd1-8a5f-4ff8-b97e-ba08a3a8038f" name="Changes" comment="&quot;Initial Commit&quot;">
+      <change afterPath="$PROJECT_DIR$/test_guess_the_word.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "sophi-mai"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/sophi-mai/GitProject",
+    "accountId": "6a4dc524-016b-4bb7-aa8b-85aa9be336bd"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
 }]]></component>
@@ -28,8 +46,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests in test_guess_the_word.py.executor": "Run",
+    "Python.capture.executor": "Run",
+    "Python.guess_word_game(v2).executor": "Run",
+    "Python.guess_word_test.executor": "Run",
+    "Python.test_guess_the_word.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/sophi/OneDrive/Documents/School/CIS256/cse256_sophiamai_EX4"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -48,6 +72,19 @@
       <option name="presentableId" value="Default" />
       <updated>1742263552143</updated>
     </task>
+    <task id="LOCAL-00001" summary="&quot;Initial Commit&quot;">
+      <option name="closed" value="true" />
+      <created>1742263908899</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1742263908899</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;Initial Commit&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Initial Commit&quot;" />
   </component>
 </project>
